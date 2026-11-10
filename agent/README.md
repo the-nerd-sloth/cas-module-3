@@ -25,7 +25,7 @@ ollama pull nomic-embed-text
 python -m venv .my_env
 
 # 4. Enable the virtual environemt.
-source my_env/bin/activate
+source .my_env/bin/activate
 
 # 5. Install Python dependencies
 pip install -r requirements.txt
