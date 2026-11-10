@@ -1,0 +1,27 @@
+# Core LLM & Agent Framework
+ollama
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-text-splitters
+langchain-chroma
+langgraph
+
+# Vector Database
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# Data & HTTP
+requests
+beautifulsoup4
+pandas
+lxml
+
+# Terminal UI
+rich
+
+# Utilities
+python-dotenv
